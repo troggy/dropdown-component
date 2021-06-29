@@ -1,0 +1,15 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" width="18" height="18">
+	<title>Menu Active - if notifcation</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #e2e2e2 } 
+	</style>
+	<g id="Menu Active - if notifcation">
+		<g id="Group">
+			<g id="Hamburger ikon">
+				<path id="Fill 2" class="shp0" d="M2.97 1.22L2.09 0.71L1.18 0.8L0.41 1.57L0.33 2.47L0.85 3.35L14.89 17.39L15.76 17.91L16.67 17.83L17.44 17.06L17.52 16.15L17.01 15.27L2.97 1.22Z" />
+				<path id="Fill 2" class="shp0" d="M14.89 1.11L15.77 0.6L16.68 0.68L17.45 1.45L17.53 2.36L17.01 3.23L2.97 17.27L2.09 17.79L1.19 17.71L0.42 16.94L0.33 16.03L0.85 15.15L14.89 1.11Z" />
+			</g>
+		</g>
+	</g>
+</svg>
