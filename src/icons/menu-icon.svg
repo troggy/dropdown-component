@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 18" width="23" height="18">
+	<title>Deposit founds new credit card</title>
+	<style>
+		tspan { white-space:pre }
+		.shp3 { fill: #e2e2e2 } 
+	</style>
+	<g id="Deposit founds new credit card">
+		<g id="Header intro">
+			<g id="Hamburger ikon">
+				<g id="Hamburger ikon">
+					<path id="Fill 1" class="shp3" d="M1.57 0L0.58 0.26L0 0.96L0 2.05L0.59 2.75L1.57 3L21.43 3L22.41 2.75L23 2.05L23 0.96L22.42 0.26L21.43 0L1.57 0Z" />
+					<path id="Fill 2" class="shp3" d="M1.57 7.5L0.58 7.76L0 8.46L0 9.55L0.59 10.25L1.57 10.5L21.43 10.5L22.41 10.25L23 9.55L23 8.46L22.42 7.76L21.43 7.5L1.57 7.5Z" />
+					<path id="Fill 3" class="shp3" d="M1.57 15L0.58 15.26L0 15.96L0 17.05L0.59 17.75L1.57 18L21.43 18L22.41 17.75L23 17.05L23 15.96L22.42 15.26L21.43 15L1.57 15Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: G TCinetype-light;
+  src: url('../../../fonts/GT-Cinetype-Light.ttf');
+}
+.menu-item {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+  font: 300 16px G TCinetype-light;
+  text-align: left;
+  transition: color 300ms;
+  user-select: none;
+}
+.menu-item:hover {
+  color: rgba(255, 255, 255, 1);
+}
